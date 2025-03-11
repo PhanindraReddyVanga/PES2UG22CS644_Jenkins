@@ -1,4 +1,3 @@
-okok
 pipeline {
     agent any
 
